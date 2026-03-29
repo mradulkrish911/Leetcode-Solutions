@@ -18,3 +18,11 @@ Compile and run Java files using:
 ```bash
 javac FileName.java
 java FileName
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+<!---LeetCode Topics End-->
