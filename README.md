@@ -25,4 +25,12 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
