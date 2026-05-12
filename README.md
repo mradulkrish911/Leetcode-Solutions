@@ -24,6 +24,7 @@ java FileName
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
