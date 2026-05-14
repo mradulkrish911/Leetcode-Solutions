@@ -25,6 +25,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ java FileName
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -72,4 +74,8 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
