@@ -32,6 +32,7 @@ java FileName
 | ------- | ------- |
 | [0015-3sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0322-coin-change](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
@@ -114,4 +115,8 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1395-count-number-of-teams](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
