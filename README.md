@@ -41,6 +41,7 @@ java FileName
 | [1395-count-number-of-teams](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1817-finding-the-users-active-minutes](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -75,6 +76,7 @@ java FileName
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [1817-finding-the-users-active-minutes](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
