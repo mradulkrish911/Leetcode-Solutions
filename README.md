@@ -170,6 +170,7 @@ java FileName
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0390-elimination-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Divide and Conquer
@@ -180,6 +181,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0390-elimination-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
