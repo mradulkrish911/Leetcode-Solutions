@@ -52,6 +52,7 @@ java FileName
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ java FileName
 | [2126-destroying-asteroids](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
@@ -96,6 +98,7 @@ java FileName
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
