@@ -36,6 +36,7 @@ java FileName
 | [0015-3sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0078-subsets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0322-coin-change](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
@@ -160,6 +161,7 @@ java FileName
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [1829-maximum-xor-for-each-query](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -170,6 +172,7 @@ java FileName
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
