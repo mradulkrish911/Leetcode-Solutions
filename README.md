@@ -49,6 +49,7 @@ java FileName
 | [1817-finding-the-users-active-minutes](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -66,6 +67,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2126-destroying-asteroids](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -107,6 +109,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +185,7 @@ java FileName
 | ------- | ------- |
 | [0390-elimination-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -201,4 +205,20 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
