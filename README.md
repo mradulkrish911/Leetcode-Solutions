@@ -26,6 +26,7 @@ java FileName
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1446-consecutive-characters](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
@@ -116,6 +117,7 @@ java FileName
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0322-coin-change](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1395-count-number-of-teams](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
@@ -186,6 +188,7 @@ java FileName
 | ------- | ------- |
 | [0078-subsets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
