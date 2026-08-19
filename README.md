@@ -26,6 +26,7 @@ java FileName
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0344-reverse-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1446-consecutive-characters](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -92,6 +93,7 @@ java FileName
 | [0015-3sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0344-reverse-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
