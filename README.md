@@ -190,6 +190,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0390-elimination-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -203,6 +204,7 @@ java FileName
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0390-elimination-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
