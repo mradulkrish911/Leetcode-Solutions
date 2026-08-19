@@ -173,6 +173,7 @@ java FileName
 | [0078-subsets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0190-reverse-bits/) | Easy |
+| [0231-power-of-two](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [1829-maximum-xor-for-each-query](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Prefix Sum
@@ -188,6 +189,7 @@ java FileName
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0390-elimination-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -200,6 +202,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0231-power-of-two](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0390-elimination-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
