@@ -1,27 +1,29 @@
-class Solution {
-
-    private void subsets(int idx, List<List<Integer>> ans, List<Integer> list, int[] nums) {
-
-        ans.add(new ArrayList<>(list));
-
-        for (int i = idx; i < nums.length; i++) {
-
-            if (i != idx && nums[i] == nums[i - 1]) {
-                continue;
-            }
-
-            list.add(nums[i]);
-            subsets(i + 1, ans, list, nums);
-            list.remove(list.size() - 1);
-        }
-    }
-
-    public List<List<Integer>> subsetsWithDup(int[] nums) {
-
-        Arrays.sort(nums);
-        List<List<Integer>> ans = new ArrayList<>();
-        subsets(0, ans, new ArrayList<>(), nums);
-        
-        return ans;
-    }
+class Solution { 
+    public List<List<Integer>> subsetsWithDup(int[] nums) { 
+     Arrays.sort(nums); 
+     List<Integer> input = new ArrayList<>(); 
+     for(int num : nums){ 
+        input.add(num); 
+     } 
+     List<Integer> temp = new ArrayList<>(); 
+     List<List<Integer>> ans = new ArrayList<>(); 
+     func(input,temp,ans); 
+     return ans;    
+    } 
+    void func(List<Integer> nums,List<Integer> temp,List<List<Integer>> ans){ 
+        ans.add(new ArrayList<>(temp)); 
+ 
+        if(nums.size() == 0) 
+        return; 
+        for(int i = 0;i < nums.size();i++){ 
+            if(i > 0 && nums.get(i).equals(nums.get(i-1))){ 
+                continue; 
+            } 
+            List<Integer> ip = new ArrayList<>(nums); 
+            List<Integer> op = new ArrayList<>(temp); 
+            op.add(ip.get(i)); 
+            ip.subList(0,i+1).clear(); 
+            func(ip,op,ans); 
+        } 
+    } 
 }
