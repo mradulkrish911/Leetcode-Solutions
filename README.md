@@ -41,6 +41,7 @@ java FileName
 | [0016-3sum-closest](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -83,6 +84,7 @@ java FileName
 | ------- | ------- |
 | [0015-3sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0047-permutations-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -193,6 +195,7 @@ java FileName
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
