@@ -30,6 +30,7 @@ java FileName
 | [0022-generate-parentheses](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1446-consecutive-characters](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -104,6 +105,7 @@ java FileName
 | [0016-3sum-closest](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
@@ -130,6 +132,7 @@ java FileName
 | [0022-generate-parentheses](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0322-coin-change](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0392-is-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1395-count-number-of-teams](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
 ## Breadth-First Search
