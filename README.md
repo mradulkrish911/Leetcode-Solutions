@@ -60,6 +60,7 @@ java FileName
 | [1829-maximum-xor-for-each-query](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -81,6 +82,7 @@ java FileName
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
