@@ -1,8 +1,18 @@
 class Solution {
     public int fib(int n) {
-        if(n == 1)return 1;
-        if(n == 0)return 0;
+        int dp[] = new int[n+1];
+        return fun(n, dp);
 
-        return fib(n-1) + fib(n-2);
+    }
+    int fun(int n, int[] dp){
+        if(n <= 1)return n;
+
+        if(dp[n] != 0){
+            return dp[n];
+        }
+
+        dp[n] = fun(n-1, dp) + fun(n-2, dp);
+
+        return dp[n];        
     }
 }
