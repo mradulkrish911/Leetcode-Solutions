@@ -54,6 +54,7 @@ java FileName
 | [0419-battleships-in-a-board](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1395-count-number-of-teams](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -141,6 +142,7 @@ java FileName
 | [0392-is-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0983-minimum-cost-for-tickets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1395-count-number-of-teams](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
