@@ -65,6 +65,7 @@ java FileName
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -144,6 +145,7 @@ java FileName
 | [0983-minimum-cost-for-tickets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1395-count-number-of-teams](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
+| [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
