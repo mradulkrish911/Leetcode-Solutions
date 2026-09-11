@@ -72,6 +72,7 @@ java FileName
 | [2784-check-if-array-is-good](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Simulation
@@ -127,6 +128,7 @@ java FileName
 | [2784-check-if-array-is-good](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -247,6 +249,7 @@ java FileName
 | [0326-power-of-three](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0390-elimination-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,4 +282,8 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
