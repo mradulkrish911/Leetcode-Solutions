@@ -34,6 +34,7 @@ java FileName
 | [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1446-consecutive-characters](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Array
@@ -125,6 +126,7 @@ java FileName
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -148,6 +150,7 @@ java FileName
 | [1043-partition-array-for-maximum-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1395-count-number-of-teams](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +226,7 @@ java FileName
 | [0090-subsets-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
