@@ -28,6 +28,7 @@ java FileName
 | [0008-string-to-integer-atoi](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
@@ -49,6 +50,7 @@ java FileName
 | [0046-permutations](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -181,10 +183,12 @@ java FileName
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -229,6 +233,7 @@ java FileName
 | [0046-permutations](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
