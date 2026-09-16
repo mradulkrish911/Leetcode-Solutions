@@ -35,6 +35,7 @@ java FileName
 | [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1446-consecutive-characters](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -69,6 +70,7 @@ java FileName
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
@@ -122,6 +124,7 @@ java FileName
 | [0344-reverse-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Hash Table
