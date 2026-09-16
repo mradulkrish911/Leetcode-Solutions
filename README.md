@@ -150,6 +150,7 @@ java FileName
 | [0062-unique-paths](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0279-perfect-squares](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0494-target-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
@@ -164,6 +165,7 @@ java FileName
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -247,6 +249,7 @@ java FileName
 | [0062-unique-paths](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0279-perfect-squares](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0390-elimination-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -316,9 +319,14 @@ java FileName
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0494-target-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
