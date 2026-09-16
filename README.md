@@ -64,6 +64,7 @@ java FileName
 | [1441-build-an-array-with-stack-operations](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1817-finding-the-users-active-minutes](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
@@ -84,6 +85,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Greedy
@@ -256,6 +258,7 @@ java FileName
 | [0836-rectangle-overlap](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -273,6 +276,7 @@ java FileName
 | [0326-power-of-three](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0390-elimination-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -329,4 +333,8 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0279-perfect-squares/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
