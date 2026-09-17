@@ -33,6 +33,7 @@ java FileName
 | [0344-reverse-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -161,6 +162,7 @@ java FileName
 | [0392-is-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0494-target-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
