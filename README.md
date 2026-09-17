@@ -35,6 +35,7 @@ java FileName
 | [0392-is-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -61,6 +62,7 @@ java FileName
 | [0322-coin-change](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0494-target-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
@@ -110,6 +112,7 @@ java FileName
 | [0016-3sum-closest](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0047-permutations-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0792-number-of-matching-subsequences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2126-destroying-asteroids](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -135,6 +138,7 @@ java FileName
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -165,6 +169,7 @@ java FileName
 | [0494-target-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -219,6 +224,7 @@ java FileName
 | [0033-search-in-rotated-sorted-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0792-number-of-matching-subsequences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -350,4 +356,8 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0792-number-of-matching-subsequences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 <!---LeetCode Topics End-->
