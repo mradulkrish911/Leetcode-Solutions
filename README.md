@@ -36,6 +36,7 @@ java FileName
 | [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1446-consecutive-characters/) | Easy |
@@ -178,6 +179,7 @@ java FileName
 | [0509-fibonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1035-uncrossed-lines](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
@@ -368,6 +370,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [1035-uncrossed-lines](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Trie
