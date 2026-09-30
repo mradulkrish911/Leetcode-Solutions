@@ -94,6 +94,7 @@ java FileName
 | [3483-unique-3-digit-even-numbers](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +294,7 @@ java FileName
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
