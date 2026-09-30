@@ -95,6 +95,7 @@ java FileName
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
+| [4062-transform-array-using-pair-operations](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4062-transform-array-using-pair-operations/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,4 +384,8 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4062-transform-array-using-pair-operations/) | Medium |
 <!---LeetCode Topics End-->
