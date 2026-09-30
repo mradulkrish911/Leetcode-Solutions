@@ -96,6 +96,7 @@ java FileName
 | [3718-smallest-missing-multiple-of-k](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4061-minimum-queen-moves-to-reach-target/) | Easy |
 | [4062-transform-array-using-pair-operations](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4062-transform-array-using-pair-operations/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ java FileName
 | [2553-separate-the-digits-in-an-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +132,7 @@ java FileName
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,11 +163,13 @@ java FileName
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3176-find-the-maximum-length-of-a-good-subsequence-i/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [2029-stone-game-ix](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +216,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,4 +394,8 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4062-transform-array-using-pair-operations](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4062-transform-array-using-pair-operations/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 <!---LeetCode Topics End-->
