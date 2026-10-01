@@ -66,6 +66,7 @@ java FileName
 | [0322-coin-change](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0494-target-sum](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0494-target-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0983-minimum-cost-for-tickets/) | Medium |
@@ -151,6 +152,7 @@ java FileName
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1817-finding-the-users-active-minutes](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1817-finding-the-users-active-minutes/) | Medium |
@@ -268,6 +270,7 @@ java FileName
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
