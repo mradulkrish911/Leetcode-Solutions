@@ -83,6 +83,7 @@ java FileName
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2610-convert-an-array-into-a-2d-array-with-conditions/) | Medium |
@@ -194,6 +195,7 @@ java FileName
 | [1137-n-th-tribonacci-number](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1395-count-number-of-teams](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/1395-count-number-of-teams/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2369-check-if-there-is-a-valid-partition-for-the-array](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2369-check-if-there-is-a-valid-partition-for-the-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2767-partition-string-into-minimum-beautiful-substrings/) | Medium |
@@ -231,6 +233,7 @@ java FileName
 | ------- | ------- |
 | [0079-word-search](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0079-word-search/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0419-battleships-in-a-board/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +349,7 @@ java FileName
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chhayabhardwaj111-create/Leetcode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
