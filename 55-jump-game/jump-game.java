@@ -5,10 +5,8 @@ class Solution {
         dp[nums.length - 1] = true;
 
         for(int i = nums.length - 2; i >= 0; i--){
-            int far = Math.min(nums.length - 1,i + nums[i]);
-
-            for(int j = i + 1; j <= far; j++){
-                if(dp[j]){
+            for(int j = i + 1; j <= i + nums[i]; j++){
+                if(dp[j] == true){
                     dp[i] = true;
                     break;
                 }
